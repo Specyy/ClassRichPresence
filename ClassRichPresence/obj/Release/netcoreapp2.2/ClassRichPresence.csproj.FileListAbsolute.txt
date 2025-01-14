@@ -1,0 +1,13 @@
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp2.2\ClassRichPresence.deps.json
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp2.2\ClassRichPresence.runtimeconfig.json
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp2.2\ClassRichPresence.runtimeconfig.dev.json
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp2.2\ClassRichPresence.dll
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp2.2\ClassRichPresence.pdb
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\obj\Release\netcoreapp2.2\ClassRichPresence.csproj.AssemblyReference.cache
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\obj\Release\netcoreapp2.2\ClassRichPresence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\obj\Release\netcoreapp2.2\ClassRichPresence.AssemblyInfoInputs.cache
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\obj\Release\netcoreapp2.2\ClassRichPresence.AssemblyInfo.cs
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\obj\Release\netcoreapp2.2\ClassRichPresence.csproj.CoreCompileInputs.cache
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\obj\Release\netcoreapp2.2\ClassRichPresence.dll
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\obj\Release\netcoreapp2.2\ClassRichPresence.pdb
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\obj\Release\netcoreapp2.2\ClassRichPresence.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp2.2\win-x86\hostpolicy.dll
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp2.2\win-x86\hostfxr.dll
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp2.2\win-x86\ClassRichPresence.exe
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp2.2\win-x86\ClassRichPresence.deps.json
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp2.2\win-x86\ClassRichPresence.runtimeconfig.json
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp2.2\win-x86\ClassRichPresence.runtimeconfig.dev.json
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp2.2\win-x86\ClassRichPresence.dll
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp2.2\win-x86\ClassRichPresence.pdb
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\obj\Release\netcoreapp2.2\win-x86\ClassRichPresence.csproj.AssemblyReference.cache
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\obj\Release\netcoreapp2.2\win-x86\ClassRichPresence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\obj\Release\netcoreapp2.2\win-x86\ClassRichPresence.AssemblyInfoInputs.cache
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\obj\Release\netcoreapp2.2\win-x86\ClassRichPresence.AssemblyInfo.cs
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\obj\Release\netcoreapp2.2\win-x86\ClassRichPresence.csproj.CoreCompileInputs.cache
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\obj\Release\netcoreapp2.2\win-x86\ClassRichPresence.dll
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\obj\Release\netcoreapp2.2\win-x86\ClassRichPresence.pdb
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\obj\Release\netcoreapp2.2\win-x86\ClassRichPresence.genruntimeconfig.cache

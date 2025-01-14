@@ -1,0 +1,5 @@
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp3.0\publish\ClassRichPresence.exe
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp3.0\publish\ClassRichPresence.dll
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp3.0\publish\ClassRichPresence.deps.json
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp3.0\publish\ClassRichPresence.runtimeconfig.json
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp3.0\publish\ClassRichPresence.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pLNwyr2cqRs8p2JD28rb2JMuRKRVwwPlfTqS1aTl/X9p0ogG/YR6ppm4kNsjRllVtZRqI45lZrl9zEkDOof4Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alvyn\\source\\repos\\ClassRichPresence\\ClassRichPresence\\ClassRichPresence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alvyn\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.0.3\\microsoft.netcore.app.runtime.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\alvyn\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\alvyn\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.0.3\\microsoft.aspnetcore.app.runtime.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

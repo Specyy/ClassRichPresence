@@ -1,0 +1,2 @@
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp3.0\publish\ClassRichPresence.pdb
+C:\Users\alvyn\source\repos\ClassRichPresence\ClassRichPresence\bin\Release\netcoreapp3.0\publish\ClassRichPresence.exe
